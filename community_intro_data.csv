@@ -1,0 +1,111 @@
+overal_episode,season_episode,episode_name,airing_date,episode_code,has_line,is_correct,note
+1,1,"""Pilot""","September 17, 2009",100,FALSE,,no intro
+2,2,"""Spanish 101""","September 24, 2009",101,TRUE,FALSE,
+3,3,"""Introduction to Film""","October 1, 2009",102,TRUE,FALSE,
+4,4,"""Social Psychology""","October 8, 2009",104,FALSE,,super shortend
+5,5,"""Advanced Criminal Law""","October 15, 2009",105,FALSE,,shortend
+6,6,"""Football, Feminism and You""","October 22, 2009",103,FALSE,,shortend
+7,7,"""Introduction to Statistics""","October 29, 2009",106,TRUE,FALSE,
+8,8,"""Home Economics""","November 5, 2009",107,FALSE,,super shortend
+9,9,"""Debate 109""","November 12, 2009",109,FALSE,,shortend
+10,10,"""Environmental Science""","November 19, 2009",108,FALSE,,shortend
+11,11,"""The Politics of Human Sexuality""","December 3, 2009",110,FALSE,,shortend
+12,12,"""Comparative Religion""","December 10, 2009",111,TRUE,FALSE,
+13,13,"""Investigative Journalism""","January 14, 2010",113,FALSE,,no intro
+14,14,"""Interpretive Dance""","January 21, 2010",112,FALSE,,shortend
+15,15,"""Romantic Expressionism""","February 4, 2010",115,FALSE,,shortend
+16,16,"""Communication Studies""","February 11, 2010",116,FALSE,,shortend
+17,17,"""Physical Education""","March 4, 2010",118,FALSE,,shortend
+18,18,"""Basic Genealogy""","March 11, 2010",117,FALSE,,shortend
+19,19,"""Beginner Pottery""","March 18, 2010",114,FALSE,,shortend
+20,20,"""The Science of Illusion""","March 25, 2010",122,FALSE,,shortend
+21,21,"""Contemporary American Poultry""","April 22, 2010",123,FALSE,,shortend
+22,22,"""The Art of Discourse""","April 29, 2010",124,FALSE,,shortend
+23,23,"""Modern Warfare""","May 6, 2010",119,TRUE,FALSE,
+24,24,"""English as a Second Language""","May 13, 2010",120,TRUE,FALSE,
+25,25,"""Pascal's Triangle Revisited""","May 20, 2010",121,FALSE,,shortend
+26,1,"""Anthropology 101""","September 23, 2010",201,TRUE,FALSE,
+27,2,"""Accounting for Lawyers""","September 30, 2010",203,TRUE,FALSE,
+28,3,"""The Psychology of Letting Go""","October 7, 2010",202,TRUE,FALSE,
+29,4,"""Basic Rocket Science""","October 14, 2010",204,TRUE,FALSE,
+30,5,"""Messianic Myths and Ancient Peoples""","October 21, 2010",205,TRUE,FALSE,
+31,6,"""Epidemiology""","October 28, 2010",206,TRUE,FALSE,
+32,7,"""Aerodynamics of Gender""","November 4, 2010",207,TRUE,FALSE,
+33,8,"""Cooperative Calligraphy""","November 11, 2010",208,FALSE,,shortend
+34,9,"""Conspiracy Theories and Interior Design""","November 18, 2010",210,TRUE,FALSE,
+35,10,"""Mixology Certification""","December 2, 2010",209,TRUE,FALSE,
+36,11,"""Abed's Uncontrollable Christmas""","December 9, 2010",222,FALSE,,christmas song
+37,12,"""Asian Population Studies""","January 20, 2011",211,TRUE,FALSE,
+38,13,"""Celebrity Pharmacology""","January 27, 2011",212,TRUE,FALSE,
+39,14,"""Advanced Dungeons & Dragons""","February 3, 2011",214,FALSE,,not on netflix
+40,15,"""Early 21st Century Romanticism""","February 10, 2011",213,TRUE,TRUE,
+41,16,"""Intermediate Documentary Filmmaking""","February 17, 2011",215,TRUE,TRUE,
+42,17,"""Intro to Political Science""","February 24, 2011",216,TRUE,TRUE,
+43,18,"""Custody Law and Eastern European Diplomacy""","March 17, 2011",217,TRUE,TRUE,
+44,19,"""Critical Film Studies""","March 24, 2011",218,TRUE,FALSE,
+45,20,"""Competitive Wine Tasting""","April 14, 2011",219,TRUE,FALSE,
+46,21,"""Paradigms of Human Memory""","April 21, 2011",220,TRUE,TRUE,
+47,22,"""Applied Anthropology and Culinary Arts""","April 28, 2011",221,TRUE,FALSE,
+48,23,"""A Fistful of Paintballs""","May 5, 2011",223,FALSE,,western song
+49,24,"""For a Few Paintballs More""","May 12, 2011",224,FALSE,,star wars song
+50,1,"""Biology 101""","September 22, 2011",301,TRUE,FALSE,
+51,2,"""Geography of Global Conflict""","September 29, 2011",302,TRUE,FALSE,
+52,3,"""Competitive Ecology""","October 6, 2011[a]",304,TRUE,FALSE,
+53,4,"""Remedial Chaos Theory""","October 13, 2011",303,TRUE,FALSE,
+54,5,"""Horror Fiction in Seven Spooky Steps""","October 27, 2011",305,TRUE,FALSE,
+55,6,"""Advanced Gay""","November 3, 2011",306,TRUE,FALSE,
+56,7,"""Studies in Modern Movement""","November 10, 2011",307,TRUE,FALSE,
+57,8,"""Documentary Filmmaking: Redux""","November 17, 2011",308,TRUE,FALSE,
+58,9,"""Foosball and Nocturnal Vigilantism""","December 1, 2011",309,TRUE,FALSE,
+59,10,"""Regional Holiday Music""","December 8, 2011",311,TRUE,FALSE,
+60,11,"""Urban Matrimony and the Sandwich Arts""","March 15, 2012",312,TRUE,TRUE,
+61,12,"""Contemporary Impressionists""","March 22, 2012",310,TRUE,FALSE,
+62,13,"""Digital Exploration of Interior Design""","March 29, 2012",313,TRUE,TRUE,
+63,14,"""Pillows and Blankets""","April 5, 2012",314,FALSE,,no intro
+64,15,"""Origins of Vampire Mythology""","April 12, 2012",315,TRUE,TRUE,
+65,16,"""Virtual Systems Analysis""","April 19, 2012",316,FALSE,,no english subtitles
+66,17,"""Basic Lupine Urology""","April 26, 2012",317,FALSE,,law & order song
+67,18,"""Course Listing Unavailable""","May 3, 2012",318,TRUE,TRUE,
+68,19,"""Curriculum Unavailable""","May 10, 2012",319,TRUE,TRUE,
+69,20,"""Digital Estate Planning""","May 17, 2012",322,FALSE,,8-bit song
+70,21,"""The First Chang Dynasty""","May 17, 2012",320,TRUE,TRUE,
+71,22,"""Introduction to Finality""","May 17, 2012",321,TRUE,TRUE,
+72,1,"""History 101""","February 7, 2013",401,FALSE,,abed tv song
+73,2,"""Paranormal Parentage""","February 14, 2013",403,TRUE,TRUE,
+74,3,"""Conventions of Space and Time""","February 21, 2013",404,FALSE,,shortend
+75,4,"""Alternative History of the German Invasion""","February 28, 2013",402,TRUE,TRUE,
+76,5,"""Cooperative Escapism in Familial Relations""","March 7, 2013",405,TRUE,TRUE,
+77,6,"""Advanced Documentary Filmmaking""","March 14, 2013",408,TRUE,TRUE,
+78,7,"""Economics of Marine Biology""","March 21, 2013",406,TRUE,TRUE,
+79,8,"""Herstory of Dance""","April 4, 2013",407,TRUE,TRUE,
+80,9,"""Intro to Felt Surrogacy""","April 11, 2013",413,TRUE,TRUE,
+81,10,"""Intro to Knots""","April 18, 2013",409,TRUE,TRUE,
+82,11,"""Basic Human Anatomy""","April 25, 2013",410,TRUE,TRUE,
+83,12,"""Heroic Origins""","May 2, 2013",412,TRUE,TRUE,
+84,13,"""Advanced Introduction to Finality""","May 9, 2013",411,TRUE,TRUE,
+85,1,"""Repilot""","January 2, 2014",501,TRUE,TRUE,
+86,2,"""Introduction to Teaching""","January 2, 2014",502,TRUE,TRUE,
+87,3,"""Basic Intergluteal Numismatics""","January 9, 2014",505,FALSE,,ass crack bandit song
+88,4,"""Cooperative Polygraphy""","January 16, 2014",503,TRUE,TRUE,
+89,5,"""Geothermal Escapism""","January 23, 2014",504,FALSE,,floor is lava song
+90,6,"""Analysis of Cork-Based Networking""","January 30, 2014",506,TRUE,TRUE,
+91,7,"""Bondage and Beta Male Sexuality""","February 27, 2014",507,TRUE,TRUE,
+92,8,"""App Development and Condiments""","March 6, 2014",508,TRUE,TRUE,
+93,9,"""VCR Maintenance and Educational Publishing""","March 13, 2014",509,TRUE,TRUE,
+94,10,"""Advanced Advanced Dungeons & Dragons""","March 20, 2014",510,FALSE,,dungeons & dragons song
+95,11,"""G.I. Jeff""","April 3, 2014",513,FALSE,,g.i. joe song
+96,12,"""Basic Story""","April 10, 2014",512,TRUE,TRUE,
+97,13,"""Basic Sandwich""","April 17, 2014",511,TRUE,TRUE,
+98,1,"""Ladders""","March 17, 2015",602,TRUE,TRUE,
+99,2,"""Lawnmower Maintenance and Postnatal Care""","March 17, 2015",601,TRUE,TRUE,
+100,3,"""Basic Crisis Room Decorum""","March 24, 2015",605,TRUE,TRUE,
+101,4,"""Queer Studies and Advanced Waxing""","March 31, 2015",603,TRUE,TRUE,
+102,5,"""Laws of Robotics and Party Rights""","April 7, 2015",604,TRUE,TRUE,
+103,6,"""Basic Email Security""","April 14, 2015",606,TRUE,TRUE,
+104,7,"""Advanced Safety Features""","April 21, 2015",607,TRUE,TRUE,
+105,8,"""Intro to Recycled Cinema""","April 28, 2015",608,TRUE,TRUE,
+106,9,"""Grifting 101""","May 5, 2015",609,FALSE,,rag time song
+107,10,"""Basic RV Repair and Palmistry""","May 12, 2015",610,TRUE,TRUE,
+108,11,"""Modern Espionage""","May 19, 2015",611,FALSE,,spy song
+109,12,"""Wedding Videography""","May 26, 2015",612,TRUE,TRUE,
+110,13,"""Emotional Consequences of Broadcast Television""","June 2, 2015",613,TRUE,TRUE,
